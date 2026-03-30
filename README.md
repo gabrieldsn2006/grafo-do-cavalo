@@ -62,7 +62,7 @@ O grafo possui **2 componentes conexas**:
 
 ### 3. Qual é a distância mínima entre as posições (0,0) e (2,2)?
 A posição `(0,0)` corresponde ao vértice **0** e `(2,2)` ao vértice **8**.
-* **Caminho encontrado**: `0 -> 7 -> 2 -> 3 -> 8` (ou `0 -> 5 -> 6 -> 1 -> 8`).
+* **Caminho encontrado**: `0 -> 5 -> 6 -> 1 -> 8`.
 * **Distância mínima**: **4 movimentos**.
 
 ### 4. O grafo possui ciclo? (Análise de Complexidade)
