@@ -1,5 +1,8 @@
 
 ---
+# Vídeo explicativo : 
+
+Vídeo explicativo: https://youtu.be/kz34A2U4Duw
 
 # Grafo do Cavalo - Tabuleiro 3x3
 
